@@ -94,6 +94,7 @@ Content-AI-Creator/
 \`\`\`bash
 # Clone the repo
 git clone https://github.com/jsech3/ContentAI-ChannelAnalysis-Project.git
+
 cd content-ai-creator
 
 # Install dependencies
